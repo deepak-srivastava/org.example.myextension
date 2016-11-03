@@ -1,3 +1,3 @@
 # org.example.myextension
 
-new test instructions 1.1
+new test iimproved instructions 1.2
